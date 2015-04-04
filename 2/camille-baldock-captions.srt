@@ -5925,7 +5925,8 @@ and I expect it's insert. Yes.
 
 1401
 01:33:53,800 --> 01:34:01,170
-inaud going in the loop which is good news.
+So now it's actually going in
+the loop which is good news.
 
 1402
 01:34:01,170 --> 01:34:03,450
