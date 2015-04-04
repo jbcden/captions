@@ -5920,7 +5920,8 @@ CB: Correct.
 
 1400
 01:33:44,050 --> 01:33:47,650
-So this is you cant inaud and insert. Yes.
+So this is you can't add
+and I expect it's insert. Yes.
 
 1401
 01:33:53,800 --> 01:34:01,170
