@@ -5903,7 +5903,8 @@ What I mean by that... and do that.
 
 1396
 01:33:36,540 --> 01:33:38,800
-inaud add for array.  Interesting.
+Undefined method `add` for array.
+Interesting.
 
 1397
 01:33:39,200 --> 01:33:40,540
