@@ -5950,7 +5950,8 @@ Which is here.
 
 1407
 01:34:21,420 --> 01:34:23,510
-TS: What does the document for insert say ?
+TS: What does the documentation
+for insert say?
 
 1408
 01:34:25,110 --> 01:34:26,620
