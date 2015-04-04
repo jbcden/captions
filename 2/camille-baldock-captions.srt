@@ -5930,7 +5930,7 @@ the loop which is good news.
 
 1402
 01:34:01,170 --> 01:34:03,450
-I want to find my inaud pass
+Undefined '-' method class.
 
 1403
 01:34:04,480 --> 01:34:06,140
