@@ -5771,8 +5771,7 @@ documentation this is deleted.
 
 1364
 01:30:56,342 --> 01:30:59,600
-This gives me back all the
-documentation that's it deleted.
+This gives me back all that it's deleted.
 
 1365
 01:31:02,050 --> 01:31:03,910
