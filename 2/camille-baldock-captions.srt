@@ -5739,7 +5739,8 @@ how many 14s I'm deleting
 
 1357
 01:30:17,000 --> 01:30:19,140
-That exact number of 1s on the other side
+In order to add that exact
+number of 1s on the other side
 
 1358
 01:30:19,140 --> 01:30:22,740
