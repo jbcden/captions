@@ -5824,7 +5824,7 @@ exactly the number of aces times.
 
 1377
 01:32:04,220 --> 01:32:06,600
-I could do it in a better way by concatulating
+I could do it in a better way by concatenating
 
 1378
 01:32:07,480 --> 01:32:09,480
