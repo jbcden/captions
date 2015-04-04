@@ -5820,7 +5820,7 @@ and add two sorted card values ones,
 1376
 01:31:58,080 --> 01:32:00,970
 but I want to do that
-exactly the number of aces tI'mes.
+exactly the number of aces times.
 
 1377
 01:32:04,220 --> 01:32:06,600
