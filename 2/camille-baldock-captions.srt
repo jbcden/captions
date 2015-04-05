@@ -5964,7 +5964,7 @@ the given index
 
 1410
 01:34:31,020 --> 01:34:32,514
-so you have to inaud an index.
+so you have to provide an index.
 
 1411
 01:34:32,514 --> 01:34:33,228
