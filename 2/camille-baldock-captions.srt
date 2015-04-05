@@ -5989,7 +5989,7 @@ CB: No, so many things going wrong right now.
 
 1416
 01:35:05,680 --> 01:35:08,220
-This is take my sorted of card values and give me
+This is take my sorted card values and give me
 
 1417
 01:35:10,200 --> 01:35:12,110
