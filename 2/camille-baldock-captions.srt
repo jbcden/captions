@@ -5959,7 +5959,8 @@ CB: it's not destructive is it ?
 
 1409
 01:34:28,280 --> 01:34:31,020
-TS: it's not inaud the values with an index
+TS: it sets the given value with
+the given index
 
 1410
 01:34:31,020 --> 01:34:32,514
